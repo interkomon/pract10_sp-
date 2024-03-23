@@ -1,0 +1,4 @@
+﻿  pract10new.cpp
+C:\Users\Andrey\Desktop\pract10new\pract10new\pract10new.cpp(43,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Andrey\Desktop\pract10new\pract10new\pract10new.cpp(57,25): warning C4101: piApp: неиспользованная локальная переменная
+  pract10new.vcxproj -> C:\Users\Andrey\Desktop\pract10new\x64\Debug\pract10new.exe
